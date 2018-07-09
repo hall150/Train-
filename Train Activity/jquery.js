@@ -1,5 +1,6 @@
 // Initialize Firebase
-var config = {
+
+    var config = {
     apiKey: "AIzaSyDtA2TWqsEIK2BaHnzICgpeyA65vgh15MA",
     authDomain: "train-activity-1a966.firebaseapp.com",
     databaseURL: "https://train-activity-1a966.firebaseio.com",
